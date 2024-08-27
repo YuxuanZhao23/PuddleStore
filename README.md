@@ -1,9 +1,5 @@
 # Puddlestore README
 
-### Bugs in our code
-
-We have passed all the test cases in the checkpoint.
-
 ### Extra features
 
 Read-Write locks & Pre-fetching
